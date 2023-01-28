@@ -1,0 +1,60 @@
+.my -nv{
+    padding: 40px 0;
+  background-color: transparent;
+}
+.d-flex{
+    text-decoration: none;
+}
+.tittle{
+    color: #283034;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 700;
+}sub-tittle{
+    color: black;
+}   
+.n-1{
+}
+.m-2{
+    font-size: 1.375rem;
+    color: rgb(0, 0, 0);
+}
+.m-3{
+    color: #757575;
+
+}
+.l-1{
+    color: #283034;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 600;
+}
+.l-2{
+    color: #283034;
+    font-family: 'Baloo 2', cursive;
+    font-weight: 600;
+}.m-dp{
+    color:#0032CC ;
+}.m-15{
+    text-align: center;
+position: relative;
+padding: 0 0 15px;
+margin-bottom: 15px;
+font-weight: 700;
+}.my-nm{
+    padding: 30px;
+    position: relative;
+    background: rgb(248, 248, 255);
+    border-radius: 10px;
+    margin-bottom: 30px;
+}.all-55{
+    height: 80px;
+    width: 80px;
+    color: #fff;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 80px;
+    border-radius: 5px;
+    display: inline-block;
+    background: #0033CC;
+    box-shadow: 0 5px 20px 0 rgba(0, 51, 204, 0.3);
+}
